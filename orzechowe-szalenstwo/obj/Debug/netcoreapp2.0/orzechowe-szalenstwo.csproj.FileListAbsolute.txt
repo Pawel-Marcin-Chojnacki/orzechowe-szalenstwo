@@ -1,0 +1,10 @@
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/bin/Debug/netcoreapp2.0/orzechowe-szalenstwo.deps.json
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/bin/Debug/netcoreapp2.0/orzechowe-szalenstwo.runtimeconfig.json
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/bin/Debug/netcoreapp2.0/orzechowe-szalenstwo.runtimeconfig.dev.json
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/bin/Debug/netcoreapp2.0/orzechowe-szalenstwo.dll
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/bin/Debug/netcoreapp2.0/orzechowe-szalenstwo.pdb
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/obj/Debug/netcoreapp2.0/orzechowe-szalenstwo.csproj.CoreCompileInputs.cache
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/obj/Debug/netcoreapp2.0/orzechowe-szalenstwo.AssemblyInfoInputs.cache
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/obj/Debug/netcoreapp2.0/orzechowe-szalenstwo.AssemblyInfo.cs
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/obj/Debug/netcoreapp2.0/orzechowe-szalenstwo.dll
+/Users/pawel/Code/dotnet/orzechowe-szalenstwo/orzechowe-szalenstwo/obj/Debug/netcoreapp2.0/orzechowe-szalenstwo.pdb
